@@ -1,0 +1,4 @@
+# Project exclude paths
+/Application/target/
+/LibraryOne/target/
+/LibraryTwo/target/
